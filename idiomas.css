@@ -1,0 +1,60 @@
+ body{
+    font-family: Tahoma;
+    text-align: center;
+    margin: 0;
+ }
+ div{
+    margin: 10px auto;
+    width: 1000px;
+    text-align: center;
+    background-color: white;
+ }
+ img {
+    width: 150px;
+    background-color: #fff;
+ }
+ h1 {
+    font-size: 20px;
+    color:black
+ }
+ h2 {
+    font-weight: normal;
+    color: #0291dd;
+    font-size: 16px;
+    margin-bottom: 0;
+ }
+ .secao-azul {
+    background-color: #0291dd;
+    color: white;
+ }
+ .pais{
+    width: 30px;
+    margin: 10px auto;
+ }
+ p {
+    font-size: 14px;
+    line-height: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+ }
+ h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 5px
+ }
+ .secao-branco p{
+    background-color: white;
+    color:black;
+ }
+ .secao-cinza{
+    background-color: #dfdfdf;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
+ .rodape {
+    color: #0291dd;
+    width: 350px;
+    margin: 15px auto 0;
+ }
